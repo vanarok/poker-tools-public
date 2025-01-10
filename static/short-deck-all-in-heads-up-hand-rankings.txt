@@ -1,0 +1,7 @@
+aa, kk, qq, jj, tt, aks, aqs, ako, ajs, kqs, aqo, ajo, ats,
+kjs, qjs, kts, kqo, qts, jts, 99, ato, kjo, qjo, a9s, kto,
+jto, qto, a8s, a9o, k9s, a8o, t9s, q9s, a7s, j9s, k9o, t9o,
+q9o, j9o, 88, a7o, a6s, k8s, 98s, t8s, q8s, j8s, k7s, a6o,
+k8o, t8o, 98o, q8o, j8o, k7o, k6s, 97s, t7s, q7s, j7s, 77,
+q6s, k6o, 97o, t7o, q7o, 87s, j7o, 96s, q6o, t6s, j6s, 87o,
+96o, 86s, t6o, j6o, 66, 86o, 76s, 76o
